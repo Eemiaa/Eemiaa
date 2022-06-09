@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---><div align="center">
+-->
+![meusetup](https://user-images.githubusercontent.com/88001551/172949582-f3f498a5-2ebb-4161-a243-51027e534fe7.jpg)
+
+<div align="center">
 <img src="https://github.com/Eemiaa/Eemiaa/issues/1#issue-1266685701">
 </div>
