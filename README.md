@@ -19,3 +19,8 @@ Here are some ideas to get you started:
 <div align="center">
 <img src="https://media.giphy.com/media/Ct9ZrZLGGWC3ncn7zi/giphy.gif" style="height:60vh; width: 40vw">
 </div>
+
+
+<div align="right">
+<img src="https://user-images.githubusercontent.com/88001551/172961492-5ea11f4a-6207-49d6-b65a-dddb7aae097c.png" style="height:30vh; width: 15vw">
+</div>
