@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 <!--![meusetup](https://user-images.githubusercontent.com/88001551/172949582-f3f498a5-2ebb-4161-a243-51027e534fe7.jpg)-->
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/88001551/172949582-f3f498a5-2ebb-4161-a243-51027e534fe7.jpg" style="height:60vh; width: 40vw">
+<img src="https://media.giphy.com/media/Ct9ZrZLGGWC3ncn7zi/giphy.gif" style="height:60vh; width: 40vw">
 </div>
