@@ -19,7 +19,7 @@
 <hr>
 <div style="display: inline_block"><br>
     <h3> My favorite languages:<h3>
-  <img align="center" height="60" width="70" src="https://user-images.githubusercontent.com/88001551/172967702-8c013e3f-82c5-45d8-80b2-2e37a58aef47.png">
+  <img align="center" height="80" width="90" src="https://user-images.githubusercontent.com/88001551/172967702-8c013e3f-82c5-45d8-80b2-2e37a58aef47.png">
  
 <img align="auto" height="80" width="90" src= "https://user-images.githubusercontent.com/88001551/172967574-c0e3f58e-2ef9-44a5-8ed4-d0f08912c2ae.png">
 
