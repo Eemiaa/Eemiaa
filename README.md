@@ -17,7 +17,7 @@
 </div>
 
 <hr>
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
     <h3> My favorite languages:<h3>
   <img align="center" height="80" width="90" src="https://user-images.githubusercontent.com/88001551/172967702-8c013e3f-82c5-45d8-80b2-2e37a58aef47.png">
  
