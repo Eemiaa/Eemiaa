@@ -27,5 +27,22 @@
 <img align="auto" height="80" width="90" src= "https://user-images.githubusercontent.com/88001551/172969142-0db43344-376e-46f2-a242-7318f4c6ec37.png">
 
 <img align="center" height="80" width="90" src= "https://user-images.githubusercontent.com/88001551/172968754-42ce2df7-8c42-4842-9413-1adcd4f534a5.png">
-<hr>
 </div>
+<hr>
+      
+<div style="display: inline_block">
+    <h3> My favorite tools:<h3>
+<img align="center" height="80" width="80" src="https://user-images.githubusercontent.com/88001551/172971595-c5a0bf17-3e52-42b6-bf8a-acfb6a83f6b7.png">
+ 
+<img align="auto" height="80" width="80" src= "https://user-images.githubusercontent.com/88001551/172971794-02a88906-fa22-488c-9046-249eb84f6cef.png">
+
+<img align="center" height="80" width="80" src= "https://user-images.githubusercontent.com/88001551/172972366-83846970-4e6b-4e4f-9d86-8b33ca7bf6e9.png">
+
+</div>
+<hr>
+ <!--     
+ ![image](https://user-images.githubusercontent.com/88001551/172972073-540a8b50-e824-4219-87ed-7008fd284903.png)
+![image](https://user-images.githubusercontent.com/88001551/172972115-aba0636d-e4d2-4954-b2aa-faede6a0312d.png)
+     
+![image](https://user-images.githubusercontent.com/88001551/172972023-0d49b067-ca7c-4386-bed1-9c9345c0d586.png)
+-->
