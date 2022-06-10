@@ -35,11 +35,11 @@
       
 <div style="display: inline_block">
     <h3> My favorite tools:<h3>
-<img align="center" height="80" width="80" src="https://user-images.githubusercontent.com/88001551/172971595-c5a0bf17-3e52-42b6-bf8a-acfb6a83f6b7.png">
+<img align="center" height="90" width="90" src="https://user-images.githubusercontent.com/88001551/172971595-c5a0bf17-3e52-42b6-bf8a-acfb6a83f6b7.png">
  
-<img align="auto" height="80" width="80" src= "https://user-images.githubusercontent.com/88001551/172971794-02a88906-fa22-488c-9046-249eb84f6cef.png">
+<img align="auto" height="90" width="90" src= "https://user-images.githubusercontent.com/88001551/172971794-02a88906-fa22-488c-9046-249eb84f6cef.png">
 
-<img align="center" height="80" width="80" src= "https://user-images.githubusercontent.com/88001551/172972366-83846970-4e6b-4e4f-9d86-8b33ca7bf6e9.png">
+<img align="center" height="90" width="90" src= "https://user-images.githubusercontent.com/88001551/172972366-83846970-4e6b-4e4f-9d86-8b33ca7bf6e9.png">
 
 </div>
 <hr>
