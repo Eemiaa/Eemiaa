@@ -41,6 +41,9 @@
 
 <img align="center" height="90" width="90" src= "https://user-images.githubusercontent.com/88001551/172972366-83846970-4e6b-4e4f-9d86-8b33ca7bf6e9.png">
 
+<img align="auto" height="90" width="90" src= "https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png">
+      
+     
 </div>
 <hr>
  <!--     
