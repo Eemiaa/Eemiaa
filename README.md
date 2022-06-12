@@ -7,7 +7,7 @@
 <div>
 <h1 align="center">✨Hello everyone!✨</h1>
 <p>🖖 I'm Aimeê.</br>
-📚 I am currently studying:</p>
+📚 I'm currently studying:</p>
 <ul align="height">
 <li>PSO (Python). 
 <li>Web Development (HTML5, CSS3, Javascript, ...).
