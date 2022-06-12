@@ -4,8 +4,9 @@
   </br>
   <label>My Setup, by me.</label>
 </div>
-<div>
+<div style="display: inline_block">
 <h1 align="center">✨Hello everyone!✨</h1>
+ <img height="250em" style="border-radius:50px;" align="right" src="https://user-images.githubusercontent.com/88001551/172961492-5ea11f4a-6207-49d6-b65a-dddb7aae097c.png" >
 <p>🖖 I'm Aimeê.</br>
 📚 I'm currently studying:</p>
 <ul align="height">
@@ -13,6 +14,8 @@
 <li>Web Development (HTML5, CSS3, Javascript, ...).
 <li>and others.
 </ul>
+
+</br></br></br></br>
 </div>
 <hr>
 
@@ -23,14 +26,11 @@
 <div style="display: inline_block" >
   
   <a href="https://github.com/Eemiaa" >
-  <img height="180em" align="auto" src=http://github-readme-streak-stats.herokuapp.com?user=Eemiaa&theme=dracula&background=000000/>
-  </br>
-
-  <img height="180em" align="auto"  src="https://github-readme-stats.vercel.app/api?username=Eemiaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="300em" style="border-radius:50px;" align="right" src="https://user-images.githubusercontent.com/88001551/172961492-5ea11f4a-6207-49d6-b65a-dddb7aae097c.png" >
+  <img height="160em" align="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eemiaa&layout=compact&langs_count=7&theme=dracula"/> 
+  <img height="160em" align="auto"  src="https://github-readme-stats.vercel.app/api?username=Eemiaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" align="auto" src=http://github-readme-streak-stats.herokuapp.com?user=Eemiaa&theme=dracula&background=000000/>
   </br>
   
-  <img height="165em" align="auto" style="border-radius:50px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eemiaa&layout=compact&langs_count=7&theme=dracula"/> 
 
 </div>
 
