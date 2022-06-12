@@ -24,11 +24,12 @@
 </div>
 
 <div style="display: inline_block" >
-  
+  <h3>My stats and streak:</h3>
   <a href="https://github.com/Eemiaa" >
   <img height="140em" align="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eemiaa&layout=compact&langs_count=7&theme=dracula"/> 
-  <img height="140em" align="auto"  src="https://github-readme-stats.vercel.app/api?username=Eemiaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="138em" align="auto" src=http://github-readme-streak-stats.herokuapp.com?user=Eemiaa&theme=dracula&background=000000/>
+  <img height="140em" align="auto"  src="https://github-readme-stats.vercel.app/api?username=Eemiaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
   </br>
   
 
