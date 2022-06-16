@@ -53,12 +53,12 @@
 <div style="display: inline_block">
     <h3> My favorite tools:<h3>
 <img align="center" height="90" width="90" src="https://user-images.githubusercontent.com/88001551/172971595-c5a0bf17-3e52-42b6-bf8a-acfb6a83f6b7.png">
- 
 <img align="auto" height="90" width="90" src= "https://user-images.githubusercontent.com/88001551/172971794-02a88906-fa22-488c-9046-249eb84f6cef.png">
+<img align="center" height="90" width="90" src= "https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png">     
+<img align="auto" height="90" width="90" src= "https://user-images.githubusercontent.com/88001551/174065667-d361fcbb-2ccd-4995-bb71-267ce0e557a3.png">
+<img align="center" height="90" width="90" src= "https://user-images.githubusercontent.com/88001551/174066600-8bc6d86e-4c4b-44ff-86cf-cb872e800b7e.png">
 
-<img align="center" height="90" width="90" src= "https://user-images.githubusercontent.com/88001551/172972366-83846970-4e6b-4e4f-9d86-8b33ca7bf6e9.png">
 
-<img align="auto" height="90" width="90" src= "https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png">
       
      
 </div>
