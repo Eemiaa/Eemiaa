@@ -12,7 +12,7 @@
 <ul align="height">
 <li>PSO (Python). 
 <li>Web Development (HTML5, CSS3, Javascript, ...).
-<li>Electron and Photon.
+<li>Electron and Photon (Javascript).
 <li>and others.
 </ul>
 
