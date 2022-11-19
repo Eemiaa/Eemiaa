@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-  <h3>My stats and streak:</h3>
+  <h3>🪴 My stats and streak 🪴</h3>
   </br></br>
   <img align="left" style=" width:22em; " src="https://i.pinimg.com/originals/ea/90/b9/ea90b9b888196d9b30afa66fd196405d.gif" >
   <a href="https://github.com/Eemiaa" >
