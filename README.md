@@ -1,12 +1,10 @@
 
 <div align="center">
-<img src="https://media.giphy.com/media/Ct9ZrZLGGWC3ncn7zi/giphy.gif" style="height:60vh; width: 40vw">
-  </br>
-  <label>My Setup, by me.</label>
+<img src="https://i.pinimg.com/564x/62/9c/1d/629c1d0202d3125549b67197146d0fd5.jpg" aligh="center">
 </div>
 <div style="display: inline_block">
 <h1 align="center">✨Hello everyone!✨</h1>
- <img height="250em" style="border-radius:50px;" align="right" src="https://user-images.githubusercontent.com/88001551/172961492-5ea11f4a-6207-49d6-b65a-dddb7aae097c.png" >
+ <img height="250em" style="border-radius:50px;" align="right" src="https://i.pinimg.com/originals/5c/3e/39/5c3e39b6d872f973a5a3aaa1179dce5d.gif" >
 <p>🖖 I'm Aimeê.</br>
 📚 I'm currently studying:</p>
 <ul align="height">
@@ -26,19 +24,26 @@
 
 <div align="center">
   <h3>My stats and streak:</h3>
+  </br></br>
+  <img align="left" style=" width:25em; " src="https://i.pinimg.com/originals/ea/90/b9/ea90b9b888196d9b30afa66fd196405d.gif" >
   <a href="https://github.com/Eemiaa" >
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eemiaa&layout=compact&langs_count=7&theme=dracula"/></br> 
-  <img height="200em" src=http://github-readme-streak-stats.herokuapp.com?user=Eemiaa&theme=dracula&background=000000/></br>
-  <img height="200em"  src="https://github-readme-stats.vercel.app/api?username=Eemiaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  
-  </br>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eemiaa&layout=compact&langs_count=7&theme=merko"/></br> 
+  </br></br></br></br></br></br></br></br>
+  <img align="right" src=http://github-readme-streak-stats.herokuapp.com?user=Eemiaa&theme=merko&background=000000/></br>
+  </br></br></br></br></br></br></br></br>
+  <img align="right"  src="https://github-readme-stats.vercel.app/api?username=Eemiaa&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  </br></br></br></br></br></br></br></br></br>
   
 
 </div>
 
 <hr>
 <div style="display: inline_block">
-    <h3> My favorite languages:<h3>
+  </br></br>
+  <img align="right" style=" width:25em; " src="https://i.pinimg.com/originals/59/8b/b3/598bb3a9a24a4747a492b7d82c4baecb.gif" >
+        
+  <h3> My favorite languages:<h3>
+      
   <img align="center" height="80" width="90" src="https://user-images.githubusercontent.com/88001551/172967702-8c013e3f-82c5-45d8-80b2-2e37a58aef47.png">
  
 <img align="auto" height="80" width="90" src= "https://user-images.githubusercontent.com/88001551/172967574-c0e3f58e-2ef9-44a5-8ed4-d0f08912c2ae.png">
