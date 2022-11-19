@@ -25,7 +25,7 @@
 <div align="center">
   <h3>My stats and streak:</h3>
   </br></br>
-  <img align="left" style=" width:25em; " src="https://i.pinimg.com/originals/ea/90/b9/ea90b9b888196d9b30afa66fd196405d.gif" >
+  <img align="left" style=" width:22em; " src="https://i.pinimg.com/originals/ea/90/b9/ea90b9b888196d9b30afa66fd196405d.gif" >
   <a href="https://github.com/Eemiaa" >
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eemiaa&layout=compact&langs_count=7&theme=merko"/></br> 
   </br></br></br></br></br></br></br></br>
