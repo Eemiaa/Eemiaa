@@ -42,7 +42,7 @@
   </br></br>
   <img align="right" style=" width:25em; " src="https://i.pinimg.com/originals/59/8b/b3/598bb3a9a24a4747a492b7d82c4baecb.gif" >
         
-  <h3> My favorite languages:<h3>
+  <h3>🌻 My favorite languages 🌻<h3>
       
   <img align="center" height="80" width="90" src="https://user-images.githubusercontent.com/88001551/172967702-8c013e3f-82c5-45d8-80b2-2e37a58aef47.png">
  
@@ -57,7 +57,7 @@
 <hr>
       
 <div style="display: inline_block">
-    <h3> My favorite tools:<h3>
+    <h3>💐 My favorite tools 💐<h3>
 <img align="center" height="90" width="90" src="https://user-images.githubusercontent.com/88001551/172971595-c5a0bf17-3e52-42b6-bf8a-acfb6a83f6b7.png">
 <img align="auto" height="90" width="90" src= "https://user-images.githubusercontent.com/88001551/172971794-02a88906-fa22-488c-9046-249eb84f6cef.png">
 <img align="center" height="90" width="90" src= "https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png">     
