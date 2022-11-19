@@ -9,7 +9,7 @@
 📚 I'm currently studying:</p>
 <ul align="height">
 <li>PSO (Python). 
-<li>Web Development (HTML5, CSS3, Javascript, ...).
+<li>Backend Development (Adonisjs, Mysql, Typescript...).
 <li>Electron and Photon (Javascript).
 <li>and others.
 </ul>
