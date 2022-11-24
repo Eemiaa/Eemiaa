@@ -27,24 +27,28 @@
   </br></br>
   <img align="left" style=" width:22em; " src="https://i.pinimg.com/originals/ea/90/b9/ea90b9b888196d9b30afa66fd196405d.gif" >
   <a href="https://github.com/Eemiaa" >
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eemiaa&layout=compact&langs_count=7&theme=merko"/></br> 
-  </br></br></br></br></br></br></br></br>
-  <img align="right" src=http://github-readme-streak-stats.herokuapp.com?user=Eemiaa&theme=merko&background=000000/></br>
-  </br></br></br></br></br></br></br></br>
-  <img align="right"  src="https://github-readme-stats.vercel.app/api?username=Eemiaa&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  </br></br></br></br></br></br></br></br></br>
+ 
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Eemiaa&show_icons=true&theme=gotham"/></br> 
+  </br></br></br></br></br></br></br>
+ 
+ <img align="right" src="https://streak-stats.demolab.com/?user=Eemiaa&theme=gotham"/></br>
+ </br></br></br></br></br></br></br>
+ 
+ <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eemiaa&layout=compact&theme=gotham"/>
+ </br></br></br></br></br></br></br></br>
   
 
 </div>
 
 <hr>
 <div style="display: inline_block">
-  </br></br>
+ 
   <img align="right" style=" width:25em; " src="https://i.pinimg.com/originals/59/8b/b3/598bb3a9a24a4747a492b7d82c4baecb.gif" >
         
   <h3>🌻 My favorite languages 🌻<h3>
-      
-  <img align="center" height="80" width="90" src="https://user-images.githubusercontent.com/88001551/172967702-8c013e3f-82c5-45d8-80b2-2e37a58aef47.png">
+
+   
+<img align="center" height="80" width="90" src="https://www.flaticon.com/br/autores/smashicons">
  
 <img align="auto" height="80" width="90" src= "https://user-images.githubusercontent.com/88001551/172967574-c0e3f58e-2ef9-44a5-8ed4-d0f08912c2ae.png">
 
@@ -63,10 +67,8 @@
 <img align="center" height="90" width="90" src= "https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png">     
 <img align="auto" height="90" width="90" src= "https://user-images.githubusercontent.com/88001551/174065667-d361fcbb-2ccd-4995-bb71-267ce0e557a3.png">
 <img align="center" height="90" width="90" src= "https://user-images.githubusercontent.com/88001551/174066600-8bc6d86e-4c4b-44ff-86cf-cb872e800b7e.png">
+ </br></br>
 
-
-      
-     
 </div>
 <hr>
  <!--     
