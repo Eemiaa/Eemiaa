@@ -35,8 +35,7 @@
  </br></br></br></br></br></br></br>
  
  <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eemiaa&layout=compact&theme=gotham"/>
- </br></br></br></br></br></br></br></br>
-  
+ </br></br></br></br></br></br></br></br></br></br>
 
 </div>
 
@@ -47,16 +46,19 @@
         
   <h3>🌻 My favorite languages 🌻<h3>
 
-   
-<img align="center" height="80" width="90" src="https://www.flaticon.com/br/autores/smashicons">
+<img align="center" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
  
-<img align="auto" height="80" width="90" src= "https://user-images.githubusercontent.com/88001551/172967574-c0e3f58e-2ef9-44a5-8ed4-d0f08912c2ae.png">
+<img align="auto" height="80" width="90" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
 
-<img align="center" height="80" width="90" src= "https://user-images.githubusercontent.com/88001551/172967876-48924bc3-0cc2-49ad-9c72-09d443cbff54.png">
+<img align="center" height="80" width="90" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
 
-<img align="auto" height="80" width="90" src= "https://user-images.githubusercontent.com/88001551/172969142-0db43344-376e-46f2-a242-7318f4c6ec37.png">
+<img align="auto" height="80" width="90" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 
-<img align="center" height="80" width="90" src= "https://user-images.githubusercontent.com/88001551/172968754-42ce2df7-8c42-4842-9413-1adcd4f534a5.png">
+<img align="center" height="80" width="90" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+   
+<img align="auto" height="80" width="90" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
+   
+   
 </div>
 <hr>
       
