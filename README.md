@@ -37,7 +37,7 @@
 <hr>
 <div style="display: inline_block">
  
-  <img align="right" style=" width:22em; " src="https://i.pinimg.com/originals/ea/90/b9/ea90b9b888196d9b30afa66fd196405d.gif" >
+  <img align="right" style=" width:25em; " src="https://i.pinimg.com/originals/ea/90/b9/ea90b9b888196d9b30afa66fd196405d.gif" >
  
   <h3>🌻 My favorite languages 🌻</h3>
    <p>
