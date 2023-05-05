@@ -25,7 +25,8 @@
 <div align="center">
   <h3>🪴 My stats and streak 🪴</h3>
   </br></br>
-  <img align="left" style=" width:22em; " src="https://i.pinimg.com/originals/ea/90/b9/ea90b9b888196d9b30afa66fd196405d.gif" >
+  
+  <img align="left" style=" width:25em; " src="https://i.pinimg.com/originals/59/8b/b3/598bb3a9a24a4747a492b7d82c4baecb.gif" >
   <a href="https://github.com/Eemiaa" >
  
  <img align="right" src="https://streak-stats.demolab.com/?user=Eemiaa&theme=gotham"/></br>
@@ -36,8 +37,8 @@
 <hr>
 <div style="display: inline_block">
  
-  <img align="right" style=" width:25em; " src="https://i.pinimg.com/originals/59/8b/b3/598bb3a9a24a4747a492b7d82c4baecb.gif" >
-        
+  <img align="right" style=" width:22em; " src="https://i.pinimg.com/originals/ea/90/b9/ea90b9b888196d9b30afa66fd196405d.gif" >
+ 
   <h3>🌻 My favorite languages 🌻</h3>
    <p>
    <li>Python
