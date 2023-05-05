@@ -26,11 +26,11 @@
   <h3>🪴 My stats and streak 🪴</h3>
   </br></br>
   
-  <img align="left" style=" width:25em; " src="https://i.pinimg.com/originals/59/8b/b3/598bb3a9a24a4747a492b7d82c4baecb.gif" >
+  <img align="left" style=" width:22em; " src="https://i.pinimg.com/originals/59/8b/b3/598bb3a9a24a4747a492b7d82c4baecb.gif" >
   <a href="https://github.com/Eemiaa" >
  
  <img align="right" src="https://streak-stats.demolab.com/?user=Eemiaa&theme=gotham"/></br>
- </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+ </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
  
 </div>
 
