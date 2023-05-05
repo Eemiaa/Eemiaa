@@ -37,18 +37,15 @@
 <hr>
 <div style="display: inline_block">
  
-  <img align="right" style=" width:25em; " src="https://i.pinimg.com/originals/ea/90/b9/ea90b9b888196d9b30afa66fd196405d.gif" >
+ <img  align="right"  style=" width:26em; " src="https://i.pinimg.com/originals/ea/90/b9/ea90b9b888196d9b30afa66fd196405d.gif" >
  
-  <h3>🌻 My favorite languages 🌻</h3>
+ <div align="center" style="display: inline_block">
+   <h3>🌻 My favorite languages 🌻</h3>
    <p>
    <li>Python
    <li>Typescript
    <li>C#
    </p>
-</div>
-
-      
-<div style="display: inline_block">
     <h3>💐 My favorite tools 💐</h3>
     <p>
     Frameworks:
@@ -56,18 +53,22 @@
     <li>Flask
     <li>Adonisjs
     <li>VueJS, Quasar
-    </br></br>
+    </br>
     Libraries:
     <li>Altair
     <li>Pandas
     <li>Numpy
     <li>Sympy
-    </br></br>
+    </br>
     Database Manager:
     <li>Mysql
     <li>MongoDB
     <li>PostgreSQL
     </p>
     
-   
+  </div>
+
+</div>
+
+      
 
