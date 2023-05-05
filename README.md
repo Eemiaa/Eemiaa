@@ -28,15 +28,9 @@
   <img align="left" style=" width:22em; " src="https://i.pinimg.com/originals/ea/90/b9/ea90b9b888196d9b30afa66fd196405d.gif" >
   <a href="https://github.com/Eemiaa" >
  
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Eemiaa&show_icons=true&theme=gotham"/></br> 
-  </br></br></br></br></br></br></br>
- 
  <img align="right" src="https://streak-stats.demolab.com/?user=Eemiaa&theme=gotham"/></br>
- </br></br></br></br></br></br></br>
+ </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
  
- <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eemiaa&layout=compact&theme=gotham"/>
- </br></br></br></br></br></br></br></br></br></br>
-
 </div>
 
 <hr>
