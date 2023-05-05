@@ -38,18 +38,18 @@
  
   <img align="right" style=" width:25em; " src="https://i.pinimg.com/originals/59/8b/b3/598bb3a9a24a4747a492b7d82c4baecb.gif" >
         
-  <h3>🌻 My favorite languages 🌻<h3>
-   <h4>
+  <h3>🌻 My favorite languages 🌻</h3>
+   <p>
    <li>Python
    <li>Typescript
    <li>C#
-   <h4>
+   </p>
 </div>
 
       
 <div style="display: inline_block">
-    <h3>💐 My favorite tools 💐<h3>
-    <h4>
+    <h3>💐 My favorite tools 💐</h3>
+    <p>
     Frameworks:
     <li>ASP.NET
     <li>Flask
@@ -66,7 +66,7 @@
     <li>Mysql
     <li>MongoDB
     <li>PostgreSQL
-    <h4>
+    </p>
     
    
 
