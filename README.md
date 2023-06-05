@@ -28,10 +28,11 @@
   
   <img align="left" style=" width:22em; " src="https://i.pinimg.com/originals/59/8b/b3/598bb3a9a24a4747a492b7d82c4baecb.gif" >
   <a href="https://github.com/Eemiaa" >
- 
- <img align="right" src="https://streak-stats.demolab.com/?user=Eemiaa&theme=gotham"/></br>
- </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
- 
+ <div align="right" >
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Eemiaa&show_icons=true&include_all_commits=true&count_private=true&theme=gotham"/></a>
+   
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Eemiaa&langs_count=8&layout=compact&theme=gotham" height="192px"/></a>
+ </div>
 </div>
 
 <hr>
@@ -47,24 +48,22 @@
    <li>C#
    </p>
     <h3>💐 My favorite tools 💐</h3>
-    <p>
     Frameworks:
     <li>ASP.NET
     <li>Flask
     <li>Adonisjs
     <li>VueJS, Quasar
-    </br>
+    </br></br>
     Libraries:
     <li>Altair
     <li>Pandas
     <li>Numpy
     <li>Sympy
-    </br>
+    </br></br>
     Database Manager:
     <li>Mysql
     <li>MongoDB
     <li>PostgreSQL
-    </p>
     
   </div>
 
