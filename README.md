@@ -29,15 +29,14 @@
   <img align="left" style=" width:22em; " src="https://i.pinimg.com/originals/59/8b/b3/598bb3a9a24a4747a492b7d82c4baecb.gif" >
   <a href="https://github.com/Eemiaa" >
  <div align="right" >
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Eemiaa&langs_count=8&layout=compact&theme=gotham" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Eemiaa&langs_count=8&layout=compact&theme=gotham" height="192px"/></a></br></br></br></br></br></br></br></br>
  </div>
 </div>
 
 <hr>
 <div style="display: inline_block">
- 
- <img  align="right"  style=" width:26em; " src="https://i.pinimg.com/originals/ea/90/b9/ea90b9b888196d9b30afa66fd196405d.gif" >
- 
+ <div>
+   <img  align="right"  style=" width:26em; height:40em " src="https://i.pinimg.com/originals/ea/90/b9/ea90b9b888196d9b30afa66fd196405d.gif" >
  <div align="center" style="display: inline_block">
    <h3>🌻 My favorite languages 🌻</h3>
    <p>
@@ -62,7 +61,6 @@
     <li>Mysql
     <li>MongoDB
     <li>PostgreSQL
-    
   </div>
 
 </div>
