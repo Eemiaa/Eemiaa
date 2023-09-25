@@ -8,9 +8,10 @@
 <p>🖖 I'm Aimeê.</br>
 📚 I'm currently studying:</p>
 <ul align="height">
-<li>PSO (Python). 
-<li>Backend Development (Adonisjs, Mysql, Typescript...).
-<li>Electron and Photon (Javascript).
+<li>Machine Learning Interpretability
+<li>Backend Development (Flask, Asp.Net).
+<li>Frontend Development (Javascript, Vuejs, Quasar).
+<li>Web Development with Java 7.
 <li>and others.
 </ul>
 
@@ -50,12 +51,6 @@
     <li>Flask
     <li>Adonisjs
     <li>VueJS, Quasar
-    </br></br>
-    Libraries:
-    <li>Altair
-    <li>Pandas
-    <li>Numpy
-    <li>Sympy
     </br></br>
     Database Manager:
     <li>Mysql
