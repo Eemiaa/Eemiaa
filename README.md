@@ -41,6 +41,7 @@
    <li>Python
    <li>Typescript
    <li>C#
+   <li>Java
    </p>
     <h3>💐 My favorite tools 💐</h3>
     Frameworks:
