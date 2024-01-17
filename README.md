@@ -6,7 +6,7 @@
 📚 I'm currently studying:</p>
 <ul align="height">
 <li>Machine Learning Interpretability
-<li>Backend Development (Flask, Asp.Net).
+<li>Backend Development (Java Spring Boot).
 <li>Frontend Development (Javascript, Vuejs, Quasar).
 <li>Web Development with Java 7.
 <li>and others.
